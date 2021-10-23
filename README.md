@@ -28,6 +28,6 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/Gustavosf2003/Gustavosf2003/blob/output/github-contribution-grid-snake.svg)
+   <img align="center" alt="Gustavo-Cobrinha"  src="https://github.com/Gustavosf2003/Gustavosf2003/blob/output/github-contribution-grid-snake.svg">
  </div>
   
