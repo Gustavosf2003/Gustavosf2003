@@ -2,9 +2,9 @@
 
 ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 💻 Desenvolvedor Front-End
+- 🚀 Estagiário na <a href="https://orbital.company/"> Orbital Company</a>
+- 🇧🇷 Born in Sao Paulo, Brazil
 
 <div align="center">
   <a href="https://github.com/Gustavosf2003">
