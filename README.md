@@ -2,9 +2,9 @@
 
 ##
 
-💻  Desenvolvedor Front-End <br/>
-🚀  Estagiário na <a href="https://orbital.company/"> Orbital Company</a> <br/>
-🇧🇷  Born in Sao Paulo, Brazil <br/>
+-💻  Desenvolvedor Front-End <br/>
+-🚀  Estagiário na <a href="https://orbital.company/"> Orbital Company</a> <br/>
+-🇧🇷  Born in Sao Paulo, Brazil <br/>
 
 <div align="center">
   <a href="https://github.com/Gustavosf2003">
