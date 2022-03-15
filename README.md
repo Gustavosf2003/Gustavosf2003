@@ -5,6 +5,7 @@
 -💻  Desenvolvedor Front-End <br/>
 -🚀  Estagiário na <a href="https://orbital.company/"> Orbital Company</a> <br/>
 -🇧🇷  Born in Sao Paulo, Brazil <br/>
+-📖 Análise e Desenvolvimento de Sistemas (FIAP)
 
 <div align="center">
   <a href="https://github.com/Gustavosf2003">
