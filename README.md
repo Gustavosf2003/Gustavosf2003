@@ -30,6 +30,6 @@
   <a href="https://www.instagram.com/gs_ferreiraaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/gustavoferreira.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/HJaxNe8j" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <img align="center" alt="Gustavo-Cobrinha"  src="https://github.com/Gustavosf2003/Gustavosf2003/blob/output/github-contribution-grid-snake.svg">
+   <img align="center" alt="Gustavo-Cobrinha"  src="https://github.com/Gustavosf2003/gustavosf2003/blob/output/github-contribution-grid-snake.svg">
  </div>
   
