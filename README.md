@@ -1,11 +1,10 @@
-### Oii Stalker! Eu sou o Gustavo Ferreira 👋
+### Hey Stalker! I'm Gustavo Ferreira, a front-end developer at Queenslab :) 👋
 
 ##
 
--💻  Desenvolvedor Front-End <br/>
--🚀  Estagiário na <a href="https://orbital.company/"> Orbital Company</a> <br/>
--🇧🇷  Born in Sao Paulo, Brazil <br/>
--📖 Análise e Desenvolvimento de Sistemas (FIAP)
+-💻  Front-end Developer <br/>
+-🚀  Developer at <a href="https://www.queenslab.co/"> Queenslab</a> <br/>
+-🇵🇹   Lisbon, Portugal <br/>
 
 <div align="center">
   <a href="https://github.com/Gustavosf2003">
